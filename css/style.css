@@ -1,0 +1,187 @@
+.container{
+	margin: 0 auto;
+	width:1400px;
+	height: 2500px;
+	display: flex;
+	flex-direction: column;
+}
+.header{
+	justify-content: center;
+}
+.header-name{
+	color: #ff392d;
+	text-align: center;
+	font-family: 'Sacramento', cursive;
+	font-size: 45px;
+}
+.header-pidtext{
+	font-family: 'Poppins', sans-serif;
+}
+.header-dish{
+		text-align: center;
+	font-family: 'Lobster Two', cursive;
+	font-size: 35px;
+}
+.header-text{
+	display: flex;
+	justify-content: space-between;
+	width: 850px;
+	height: 100px;
+	margin: 0 auto;
+}
+.header-img{
+	width: 1400px;
+	height: 60px;
+	display: flex;
+	justify-content: center;
+}
+.strilka{
+	display: flex;
+	justify-content: center;
+	height: 30px;
+	width: 300px;
+}
+span{
+	color: #ff392d;
+	text-decoration: underline #ff392d;
+	margin-top: 10px;
+}
+.main{
+	display: flex;
+	justify-content:space-between;
+	width: 1500px;
+}
+.main-container1{
+	display: flex;
+	flex-direction:column;
+}
+.main-container2{
+	display: flex;
+	flex-direction: column;
+}
+.footer{
+	display: flex;
+	justify-content: center;
+	align-self: flex-end;
+	width: 1400px;
+	height: 300px;
+}
+.full{
+	width: 210px;
+	height: 70px;
+	background: #ff392d;
+	border: none;
+	border-radius: 5px;
+	color: white;
+	margin-top: 70px;
+}
+.block{
+	display: flex;
+	justify-content: space-between;
+	margin-top: 60px;
+}
+.nazva-cina{
+	display: flex;
+	justify-content: space-around;
+	margin-top: -25px;
+}
+.kokoska{
+	width: 130px;
+	height: 120px;
+	border-bottom-right-radius: 20px;
+	border-top-left-radius: 20px;
+}
+.kokoskas{
+	width: 130px;
+	height: 120px;
+	border-bottom-left-radius: 20px;
+	border-top-right-radius:20px;
+}
+.information{
+	color: grey;
+	font-size:21px;
+	margin-left:20px;
+	font-weight: bold;
+	margin-top: -10px;
+	margin-right:200px;
+	}
+.cina{
+	margin-left: -140px;
+}
+.nazva-bluda{
+	margin-left:-70px;
+}
+.footer-img{
+	width: 1400px;
+	height: 60px;
+	display: flex;
+	justify-content: center;
+}
+.footer{
+	width: 1400px;
+}
+.footer2-name{
+	text-align: center;
+	font-size: 40px;
+	font-family: 'Lobster Two', cursive;
+}
+.strilka2{
+	display: flex;
+	justify-content: center;
+	height: 30px;
+	width: 330px;
+}
+.packages{
+	color: red;
+	font-family: 'Poppins', sans-serif;
+	text-align: center;
+	font-size: 35px;
+}
+.footer2-information{
+	font-size:30px;
+	margin-left: 0px;
+	margin-right: 0px;
+	color:grey; 
+	font-family: 'Poppins', sans-serif;
+	font-weight: bold;
+	text-align: center;
+	float: center;
+	margin-bottom: 100px;
+}
+.sponsered{
+	color: red;
+	font-family: 'Poppins', sans-serif;
+}
+.imgshki{
+	width: 55px;
+	height: 55px;
+	margin-top: 20px;
+}
+.logosu{
+height: 75px;
+width: 300px;
+display: flex;
+justify-content: space-between;
+}
+.footer2-containers{
+	display: flex;
+	justify-content: space-between;
+}
+.tsd{
+		color: red;
+	font-family: 'Poppins', sans-serif;
+}
+.tsd2{
+	font-family: 'Poppins', sans-serif;
+	margin-top: -17.5px;
+}
+.buy-ticket{
+	width: 250px;
+	height: 100px;
+	background: #ff392d;
+	border: none;
+	border-radius: 3px;
+	color: white;
+	margin-top: 70px;
+	font-size: 20px;
+}
